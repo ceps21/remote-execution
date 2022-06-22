@@ -1,5 +1,1 @@
-{
- "Name": john
- "Age": 18
- "IsSmart": no
-}
+{"scriptinfo":[{"script":"print('hello world')"}]}
